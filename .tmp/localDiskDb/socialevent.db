@@ -1,0 +1,3 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"createdAt":1543781167655,"updatedAt":1543781167655,"id":1,"title":"a","description":"a","city":"a","country":"a","date":"2019-11-2 20:5","maxparticipants":1,"createdBy":1,"_id":1}
+{"createdAt":1543783374369,"updatedAt":1543783374369,"id":2,"title":"anyad","description":"anyad","city":"anyad","country":"anyad","date":"2018-11-2 21:42","maxparticipants":420,"createdBy":3,"_id":2}

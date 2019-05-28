@@ -1,0 +1,6 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
+{"createdAt":1543781138767,"updatedAt":1543781224243,"id":1,"firstName":"aa","lastName":"aa","dateOfBirth":"1","password":"YWVzLTI1Ni1nY20kJGRlZmF1bHQ=$eIB1wYCUYATIQk43$pBQH$i+bT4AXEYg5o/gBnt0MtoQ","email":"a@a.com","job":"a","hobby":"a","sex":"female","phoneNumber":"1","_id":1}
+{"createdAt":1543781267826,"updatedAt":1543781267826,"id":2,"firstName":"b","lastName":"b","dateOfBirth":"2","password":"YWVzLTI1Ni1nY20kJGRlZmF1bHQ=$IuWd5zq2iv+kmHkJ$Pozs$RZWICPseoHiCgpb6qkTM4Q","email":"b@b.com","job":"b","hobby":"b","sex":"male","phoneNumber":"2","_id":2}
+{"createdAt":1543783352357,"updatedAt":1543783352357,"id":3,"firstName":"anyad","lastName":"picsaja","dateOfBirth":"1998.02.27.","password":"YWVzLTI1Ni1nY20kJGRlZmF1bHQ=$iV0EjbK+91koATOf$xCcf$YG0T67qru6+GsYGUfZxgtg","email":"s@s.com","job":"s","hobby":"s","sex":"male","phoneNumber":"420","_id":3}
+{"createdAt":1543784953557,"updatedAt":1543784953557,"id":4,"firstName":"Krisi","lastName":"Ivanics","dateOfBirth":"1997","password":"YWVzLTI1Ni1nY20kJGRlZmF1bHQ=$VA4X4O60aQJGrVri$NxI/fw==$GTxbnr1QDPw6vcbYZZ6Zlw","email":"ik@gmail.com","job":"enterprise developer","hobby":"lolozas","sex":"male","phoneNumber":"69420","_id":4}
